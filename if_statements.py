@@ -30,4 +30,4 @@ print(f"Your Gross Salary is {salary}")
 print(f"Your net Salary is {new_salary}")
 
 
-print("\a")
+
