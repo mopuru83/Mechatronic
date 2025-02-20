@@ -12,8 +12,8 @@ print(fruits)
 #for loop tp print all fruits
 
 for fruit in fruits :
-    print(fruit)
-
+    print(f"I like {fruit}")
+"""
 fruits.append("Water Mellon") 
 fruits.append("Lime")
 fruits.append("Avocado")
@@ -26,3 +26,4 @@ print(fruits)
 fruits.extend(["Momm", "Tomato", "Sumpt"])
 fruits.sort()
 print(fruits)
+"""
